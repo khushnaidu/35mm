@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["L6YHMZPSYT.com.cinemon.app"],
+        "components": [
+          { "/": "/l/*", "comment": "Playlists and watchlists" },
+          { "/": "/person/*", "comment": "Person pages" }
+        ]
+      }
+    ]
+  }
+}
