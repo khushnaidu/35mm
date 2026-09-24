@@ -2,10 +2,26 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["L6YHMZPSYT.com.cinemon.app"],
+        "appIDs": [
+          "L6YHMZPSYT.com.cinemon.app"
+        ],
         "components": [
-          { "/": "/l/*", "comment": "Playlists and watchlists" },
-          { "/": "/person/*", "comment": "Person pages" }
+          {
+            "/": "/l/*",
+            "comment": "Playlists and watchlists"
+          },
+          {
+            "/": "/p/*",
+            "comment": "Explore posts, from story link stickers"
+          },
+          {
+            "/": "/u/*",
+            "comment": "Profiles, from story link stickers"
+          },
+          {
+            "/": "/person/*",
+            "comment": "Person pages"
+          }
         ]
       }
     ]
